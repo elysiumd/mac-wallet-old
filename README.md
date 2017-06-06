@@ -4,7 +4,7 @@ Elysium integration/staging tree
 http://www.elysium.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2011-2013 Elysium Developers
 
 What is Elysium?
 ----------------
